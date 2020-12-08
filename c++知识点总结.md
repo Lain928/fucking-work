@@ -47,7 +47,7 @@
 		}
 	应用:
 		Stack<int> intStack;  // int 类型的栈 
-        Stack<string> stringStack;    // string 类型的栈 
+		Stack<string> stringStack;    // string 类型的栈 
 	
 
 # 三、STL相关库操作
